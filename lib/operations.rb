@@ -2,9 +2,9 @@
 # require 'pry'
 def unsafe?(speed=0)
   if speed<40||speed>60
-    puts true
+     true
   else
-     puts false
+     false
   
   end
 end
