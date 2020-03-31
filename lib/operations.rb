@@ -16,6 +16,6 @@ end
 # end
 	
 
-unsafe?(50)
+unsafe?(95)
 # binding.pry
 
